@@ -1,0 +1,80 @@
+#container{
+    width: 700px;
+    margin: auto;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    background: linear-gradient(orchid,lightpink,orchid);
+ }
+ #hint{
+     font-size: 20px;
+     width: 90px;
+     background-color: rgb(5, 235, 235);
+     margin-left: 30px;
+     border: 2px solid rgb(5, 235, 235);
+     border-radius: 7px;
+ }#hint:hover{
+  background-color: rgb(3, 182, 182);
+  border: 2px solid rgb(3, 182, 182);
+ }
+ #questions{
+     text-align: center;
+ }#p{
+     font-size: 23px;
+ }#span{
+      padding-top: 20px;
+      color:deeppink;
+      font-size: 17px;
+ }#answer{
+     font-size: 19px;
+     width: 300px;
+     margin-left: 150px;
+     text-align: center;
+ }#submit{
+     font-size: 20px;
+     width: 100px;
+     margin-left: 20px;
+     background-color: black;
+     color: white;
+     border: 2px solid black;
+ }#submit:hover{
+       background-color: white;
+       color: black;
+       border: 2px solid black;
+ }h1{
+     text-align: center;
+ }#displayhint{
+     margin-left: 7px;
+     color: darkorange;
+     font-size: 17px;
+ }#next{
+     font-size: 20px;
+     width: 100px;
+     margin-left: 300px;
+     background-color: white;
+     color: black;
+     border: 2px solid black;
+ }#next:hover{
+     background-color: black;
+     color: white;
+     border: 2px solid black;
+ }#i1{
+     font-size: 18px;
+    color: lawngreen;
+    margin-left: 7px;
+ }#i2{
+     font-size: 18px;
+     color: red;
+     margin-left: 7px;
+ }#one{
+     font-size: 20px;
+ }#three{
+     font-size: 23px;
+ }#two{
+     font-size: 20px;
+ }#four{
+     font-size: 19px;
+     color: crimson;
+ }#five{
+     font-size: 20px;
+     color:rgb(32, 79, 219);
+ }
